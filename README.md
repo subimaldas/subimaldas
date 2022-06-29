@@ -37,4 +37,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subimaldas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
+## Watch my Github contributions get eaten by a snake 🐍
+![snake gif](https://github.com/subimaldas/subimaldas/blob/output/github-contribution-grid-snake.gif)
