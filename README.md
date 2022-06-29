@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hi, I'm Subimal👋🏽 👨🏽‍💻
 
-
-
-
-
-Find me around the web 🌎 <a href="https://www.linkedin.com/in/subimaldas/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Struggling on <a href="https://www.leetcode.com/tanyarajhans7/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇
+[![Twitter Follow](https://img.shields.io/twitter/follow/subimaldas_?label=Follow)](https://twitter.com/intent/follow?screen_name=subimaldas_)
+[![Linkedin: Subimal](https://img.shields.io/badge/-Subimal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subimaldas/)](https://www.linkedin.com/in/subimaldas/)
+![GitHub followers](https://img.shields.io/github/followers/subimaldas?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=subimaldas&color=brightgreen">
