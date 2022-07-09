@@ -17,7 +17,7 @@
 📫 &nbsp; You can connet me on: er.subimaldas@gmail.com\
 👨🏽‍💻 &nbsp; Struggling on  <a href="https://www.leetcode.com/subimaldas/">LeetCode</a> , 
 <a href="https://www.codingninjas.com/codestudio/profile/cd0d07a1-60f0-4234-a1a7-1f6375a359c1">CodeStudio</a>\
-💡 &nbsp; Apart from from i also keep interest in Stocks, NFTs📈
+💡 &nbsp; Apart from this i also keep interest in Stocks, NFTs📈
 
 
 
