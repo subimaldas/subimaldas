@@ -12,12 +12,12 @@
 
 <img align="right" alt="'coding"  width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 &nbsp; I'm a pre-final year Computer Science student at Tripura Institute of Technology, Tripura.\
-🌱 &nbsp; I’m currently learning: ReactJS, Algorithms.\
+🎓 &nbsp; I'm a final year Computer Science student at Tripura Institute of Technology, Tripura.\
+🌱 &nbsp; I’m currently learning: ReactJs, Algorithms.\
 📫 &nbsp; You can connet me on: er.subimaldas@gmail.com\
 👨🏽‍💻 &nbsp; Struggling on  <a href="https://www.leetcode.com/subimaldas/">LeetCode</a> , 
 <a href="https://www.codingninjas.com/codestudio/profile/cd0d07a1-60f0-4234-a1a7-1f6375a359c1">CodeStudio</a>\
-💡 &nbsp; Apart from this i also keep interest in Stocks, NFTs📈
+💡 &nbsp; Apart from this i also keep interest in Stocks, NFTs,Bitcoins📈
 
 
 
